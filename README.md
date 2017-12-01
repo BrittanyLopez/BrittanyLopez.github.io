@@ -10,6 +10,6 @@ Camera Effects
 
 This is my Camera Effects project.
 
-[Brittany](https://github.com/BrittanyLopez/BrittanyLopez.github.io/blob/master/Brittany.PNG?raw=true "Optional Title")
+![Brittany](https://github.com/BrittanyLopez/BrittanyLopez.github.io/blob/master/Brittany.PNG?raw=true "Optional Title")
 
 ***
